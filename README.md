@@ -1,5 +1,6 @@
-This is an application for predicting heart disease using K-Nearest Neighbors classifire model. 
+Live Render deployment URL: https://heart-disease-prediction-fastapi.onrender.com/docs
 
+This is an application for predicting heart disease using K-Nearest Neighbors classifire model. 
 Sample data for testing the app: 
 1. Input-
 {
